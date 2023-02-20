@@ -8,7 +8,7 @@ body {
 }
 
 .header {
-	background-image: url(/files.png/bgheader.png);
+	background-image: url(files.png/bgheader.png);
 	height: 100vh;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -284,7 +284,7 @@ body {
 }
 
 .black-block {
-	background-image: url(/files.png/bgblack.png);
+	background-image: url(files.png/bgblack.png);
 	padding: 80px 0;
 }
 
@@ -364,7 +364,7 @@ body {
 }
 
 .menu {
-	background-image: url(/files.png/bgmenu.png);
+	background-image: url(files.png/bgmenu.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding-bottom: 150px;
